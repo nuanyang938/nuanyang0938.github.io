@@ -1,14 +1,10 @@
 <!-- _coverpage.md -->
 
-![logo](_media/icon.svg)
+![查规范网](/logo.png)
 
-# docsify <small>3.5</small>
+# 查规范网
 
-> 一个神奇的文档网站生成器。
+> 一个集建筑规范、标准图集、设计软件的聚合下载网站。
 
-- 简单、轻便 (压缩后 ~21kB)
-- 无需生成 html 文件
-- 众多主题
-
-[GitHub](https://github.com/docsifyjs/docsify/)
-[查找规范](guide)
+[博客](https://www.cpwo.cn)
+[进入下载规范](README.md)
